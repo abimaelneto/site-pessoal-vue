@@ -8,7 +8,7 @@ export default {
 
 <template>
     <div>
-        minha home
+        Ninha Home
     </div>
 </template>
 
