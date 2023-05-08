@@ -1,3 +1,3 @@
 <template>
-    A melhor página de Contato
+    <div>Página de Contato</div>
 </template>
